@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Data Structures and Algorithms**
 
-- 🌱 I’m currently learning ** Web development**
+- 🌱 I’m currently learning **Web development**
 
 - 📫 How to reach me **kartikgupta0391@gmail.com**
 
